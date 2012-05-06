@@ -17,7 +17,7 @@ but it's smarter and more feature-rich:
 * Execute this command:  
   `cd ~/Library/"Application Support"/TextMate/Bundles/`
 * If that directory wasn't found, you'll need to create it, then:
-* `git clone git://github.com/grassator/ExtremeCSS.tmbundle.git`
+* `git clone git://github.com/kuroir/ExtremeCSS.git`
 * Restart TextMate or in menu choose  
   *Bundles -> Bundle Editor -> Reload Bundles*
   
@@ -26,4 +26,4 @@ but it's smarter and more feature-rich:
 Open up Terminal.app and execute these commands:
 
     cd ~/Library/"Application Support"/"Sublime Text 2"/Packages/
-    git clone git://github.com/grassator/ExtremeCSS.tmbundle.git ExtremeCSS`
+    git clone git://github.com/ExtremeCSS.git`
